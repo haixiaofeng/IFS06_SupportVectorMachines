@@ -1,8 +1,9 @@
-### Implementation From Scratch: Support Vector Machines (SVM)
- 
-Mini project for theoritical understanding
+</br>
+
+### Implementation From Scratch: Support Vector Machines
 </br>
 </br>
 
-  - [supportVectorMachines.ipynb](https://colab.research.google.com/drive/116aLM_LygFVrzeE5uajoQR39cHERliZV?usp=sharing)
-  - [data](https://drive.google.com/drive/folders/1QRKEPo4ZsU7oW2ZdJhEUCaxljTcEVnaP?usp=sharing)
+Mini project for theoritical understanding, for details on implementation, please visit _[SVM.ipynb (colab)]()_.
+</br>
+</br>
